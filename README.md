@@ -1,2 +1,2 @@
 # ibmi
-Al about IBMi
+All about IBMi
